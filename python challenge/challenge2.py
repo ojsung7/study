@@ -1,5 +1,5 @@
 #페이지 소스에 긴 문자열이 있었는데 너무 길어서 파일 입출력으로 함
-f=open("test.txt", "r")
+f=open("challenge2.txt", "r")
 s = f.read()
 result =""
 
